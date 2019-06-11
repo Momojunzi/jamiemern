@@ -1,7 +1,11 @@
 # Jamie MERN stack site
 
-compile files: npm run compile
+1. clone or download the repository
 
-start app: npm start
+2. install node modules: npm install
+
+3. compile files: npm run compile
+
+4. start app: npm start
 
 goto http://localhost:3000/ in your browser
